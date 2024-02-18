@@ -10,10 +10,10 @@ The dataset was supplied from Kaggle (https://www.kaggle.com/datasets/rounakbani
 This program provides movie recommendations to a user based on their preferences. Given a genre and minimum rating, the program
 will return (at most) 5 recommended movies that fit the given specifications (in no particular order).
 
-**Sample input:**
+**Sample input:** <br>
 Drama, 7
 
-**Sample Output:**
+**Sample Output:** <br>
 10309    Dilwale Dulhania Le Jayenge <br>
 314         The Shawshank Redemption <br>
 834                    The Godfather <br>
