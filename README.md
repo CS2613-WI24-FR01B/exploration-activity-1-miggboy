@@ -14,8 +14,8 @@ will return (at most) 5 recommended movies that fit the given specifications (in
 Drama, 7
 
 **Sample Output:**
-10309    Dilwale Dulhania Le Jayenge
-314         The Shawshank Redemption
-834                    The Godfather
-40251                     Your Name.
-522                 Schindler's List
+10309    Dilwale Dulhania Le Jayenge <br>
+314         The Shawshank Redemption <br>
+834                    The Godfather <br>
+40251                     Your Name. <br>
+522                 Schindler's List <br>
